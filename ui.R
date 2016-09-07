@@ -6,7 +6,7 @@
 # Elias C. Massoud, Adam J. Purdy, Michelle Miro, Sofia Hallerbäck, 
 # Jasper A. Vrugt, and James 4 Famiglietti
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# Shiny app designed by Sofia Hallerbäck and Elias Massoud
+# Shiny app designed by Sofia Hallerbäck 
 
 # START UI
 ####################################################################################################
