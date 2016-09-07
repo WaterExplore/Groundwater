@@ -115,18 +115,18 @@ USGS (1981-2003) and GRACE (2004-2013). Again, blue are from wet years and red d
         ), # fluidRow  
         column(width = 8,
                hr(), # line 
-        em("California has a complex and storied history of water management. 
-The combination of dams lining the Sierra Nevada and a statewide water conveyance 
-infrastructure provide a steady renewable supply of surface water to meet the needs 
-of the more arid Central and Southern parts of the state. However, in recent years, 
-statewide urban, agricultural, and environmental demands have exceeded the natural renewable supply. 
-To date, this gap between limited surface water supply and an increasing statewide
-water demand has been met primarily by the extraction of groundwater. However, as 
-various studies have shown, an overreliance on this resource can lead to highly 
-unsustainable rates of groundwater depletion, particularly in semi-arid regions 
-with variable precipitation (McGuire 2009, Rodell et al. 2009,
-                     Wada et al. 2010, Famiglietti et al. 2011; Richey et al., 2015a)."),
-        hr(), # line 
+        #em("California has a complex and storied history of water management. 
+#The combination of dams lining the Sierra Nevada and a statewide water conveyance 
+#infrastructure provide a steady renewable supply of surface water to meet the needs 
+#of the more arid Central and Southern parts of the state. However, in recent years, 
+#statewide urban, agricultural, and environmental demands have exceeded the natural renewable supply. 
+#To date, this gap between limited surface water supply and an increasing statewide
+#water demand has been met primarily by the extraction of groundwater. However, as 
+#various studies have shown, an overreliance on this resource can lead to highly 
+#unsustainable rates of groundwater depletion, particularly in semi-arid regions 
+#with variable precipitation (McGuire 2009, Rodell et al. 2009,
+ #                    Wada et al. 2010, Famiglietti et al. 2011; Richey et al., 2015a)."),
+  #      hr(), # line 
         em(" Simulations are based on the empirical model presented in the paper:\n
             Quantifying groundwater sustainability in California’s Central Valley –\n
            An  empirical method to estimate and project groundwater depletion and recharge\n
