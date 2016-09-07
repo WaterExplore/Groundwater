@@ -132,6 +132,10 @@ USGS (1981-2003) and GRACE (2004-2013). Again, blue are from wet years and red d
            An  empirical method to estimate and project groundwater depletion and recharge\n
             (Elias C. Massoud, Adam J. Purdy, Michelle Miro, Sofia Hallerbäck, \n
             Jasper A. Vrugt, and James Famiglietti)"),
+        br(),
+        em("App design S. Hallerbäck"),
+        br(),
+        em("For information about the model contact emassoud @ uci.edu "),
           hr() # line       
 
                       
